@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         px: '-',
-        token: 'ODkyMzcwNzcxMDk4MzcwMDQ5.YVL7Cw.vAOqHQvISNClOu3iWtBXobs8XSU',
+        token: '',
         playing: 'club penguim',
     },
 
